@@ -1,2 +1,2 @@
-# goyard
+# Go Yard
 Personal Go Playground
