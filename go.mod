@@ -1,4 +1,4 @@
-module github.com/dpsasic/goyard
+module github.com/dspasic/goyard
 
 go 1.17
 
