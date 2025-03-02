@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 
+	"rsc.io/quote/v4"
 	"github.com/dspasic/goyard/greetings"
 )
 
@@ -19,4 +20,6 @@ func main() {
 	}
 
 	fmt.Println(messages)
+
+	fmt.Println(quote.Go());
 }
