@@ -1,22 +1,22 @@
 package main
 
 import (
-    "fmt"
-    "log"
+	"fmt"
+	"log"
 
-    "github.com/dspasic/goyard/greetings"
+	"github.com/dspasic/goyard/greetings"
 )
 
 func main() {
-    log.SetPrefix("greetings: ")
-    log.SetFlags(0)
+	log.SetPrefix("greetings: ")
+	log.SetFlags(0)
 
-    names := []string{"Go", "Java", "Python"}
+	names := []string{"Go", "Java", "Python"}
 
-    messages, err := greetings.Hellos(names)
-    if err != nil {
-        log.Fatal(err)
-    }
+	messages, err := greetings.Hellos(names)
+	if err != nil {
+		log.Fatal(err)
+	}
 
-    fmt.Println(messages)
+	fmt.Println(messages)
 }
