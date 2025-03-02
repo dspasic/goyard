@@ -12,6 +12,8 @@ func main() {
 	log.SetPrefix("greetings: ")
 	log.SetFlags(0)
 
+	message := greetings.Hello("Zig")
+
 	names := []string{"Go", "Java", "Python"}
 
 	messages, err := greetings.Hellos(names)
