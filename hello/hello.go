@@ -4,17 +4,15 @@ import (
 	"fmt"
 	"log"
 
-	"rsc.io/quote/v4"
 	"github.com/dspasic/goyard/greetings"
+	"rsc.io/quote/v4"
 )
 
 func main() {
 	log.SetPrefix("greetings: ")
 	log.SetFlags(0)
 
-	message := greetings.Hello("Zig")
-
-	names := []string{"Go", "Java", "Python"}
+	names := []string{"Go", "Java", "Python", "Rust", "Zig"}
 
 	messages, err := greetings.Hellos(names)
 	if err != nil {
@@ -23,5 +21,5 @@ func main() {
 
 	fmt.Println(messages)
 
-	fmt.Println(quote.Go());
+	fmt.Println(quote.Go())
 }
