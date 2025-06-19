@@ -8,7 +8,7 @@ import (
 
 func Hello(name string) (string, error) {
 	if name == "" {
-		return name, errors.New("empty name")
+		return "", errors.New("name must not be empty")
 	}
 
 	message := fmt.Sprintf(randomFormat(), name)
@@ -29,9 +29,9 @@ func Hellos(names []string) (map[string]string, error) {
 
 func randomFormat() string {
 	formats := []string{
-		"Hi, %v. Welcome!",
+		"Hi %v. Welcome!",
 		"Great to see you, %v!",
-		"Hail, %v! Well met!",
+		"Hail, %v! Well me!",
 	}
 
 	return formats[rand.Intn(len(formats))]
