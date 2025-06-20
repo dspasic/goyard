@@ -1,0 +1,3 @@
+[submodule "example"]
+	path = example
+	url = https://go.googlesource.com/example
