@@ -5,11 +5,12 @@ Personal Go Playground
 ## Todo's
 
 * Get the basic
-* * Continue here: https://go.dev/doc/tutorial/database-access
+* * [x] Complete: https://go.dev/doc/tutorial/database-access
+* * [] Complete: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
 * [] Read [Effective Go](https://go.dev/doc/effective_go)
 * [] Read [How to write Go code](https://go.dev/doc/code)
 
-## Set up Database 
+## Set up Database
 
 Use can set up a database by using podman
 
