@@ -6,7 +6,8 @@ Personal Go Playground
 
 * Get the basic
 * * [x] Complete: https://go.dev/doc/tutorial/database-access
-* * [] Complete: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
+* * [x] Complete: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
+* * [] Complete: [Getting started with generics](https://go.dev/doc/tutorial/generics)t 
 * [] Read [Effective Go](https://go.dev/doc/effective_go)
 * [] Read [How to write Go code](https://go.dev/doc/code)
 
