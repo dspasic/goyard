@@ -7,9 +7,12 @@ Personal Go Playground
 * Get the basic
 * * [x] Complete: https://go.dev/doc/tutorial/database-access
 * * [x] Complete: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
-* * [] Complete: [Getting started with generics](https://go.dev/doc/tutorial/generics)t 
+* * [] Complete: [Getting started with generics](https://go.dev/doc/tutorial/generics)
+* * [] Complete: [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
+* * [] Complete: [Writting Web Applications](https://go.dev/doc/articles/wiki/)
 * [] Read [Effective Go](https://go.dev/doc/effective_go)
 * [] Read [How to write Go code](https://go.dev/doc/code)
+* [] Read [Go Slices: usage and internals](https://go.dev/blog/slices-intro)
 
 ## Set up Database
 
