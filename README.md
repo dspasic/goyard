@@ -7,7 +7,7 @@ Personal Go Playground
 Get the basic
 * [x] Complete: https://go.dev/doc/tutorial/database-access
 * [x] Complete: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
-* [] Complete: [Getting started with generics](https://go.dev/doc/tutorial/generics)
+* [x] Complete: [Getting started with generics](https://go.dev/doc/tutorial/generics)
 * [] Complete: [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
 * [x] Complete: [Writting Web Applications](https://go.dev/doc/articles/wiki/)
 * [] Complete: [Effective Go](https://go.dev/doc/effective_go)
@@ -28,4 +28,5 @@ Then etner the running container with podman exec
 podman exec -ti gotut-mysql /bin/bash
 ```
 
-and follow the instruction of the tutorial.
+and follow the instruction of the tutorial.Read
+                                           Read
