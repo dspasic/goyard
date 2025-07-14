@@ -8,11 +8,11 @@ Get the basic
 * [x] Complete: https://go.dev/doc/tutorial/database-access
 * [x] Complete: [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
 * [x] Complete: [Getting started with generics](https://go.dev/doc/tutorial/generics)
-* [] Complete: [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
+* [x] Complete: [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
 * [x] Complete: [Writting Web Applications](https://go.dev/doc/articles/wiki/)
 * [] Complete: [Effective Go](https://go.dev/doc/effective_go)
 * [] Complete: [How to write Go code](https://go.dev/doc/code)
-* [] Complete: [Go Slices: usage and internals](https://go.dev/blog/slices-intro)
+* [x] Complete: [Go Slices: usage and internals](https://go.dev/blog/slices-intro)
 
 ## Set up Database
 
@@ -28,5 +28,5 @@ Then etner the running container with podman exec
 podman exec -ti gotut-mysql /bin/bash
 ```
 
-and follow the instruction of the tutorial.Read
-                                           Read
+Read [web-service-gin](https://go.dev/doc/tutorial/web-service-gin) for furhter
+instructions.
