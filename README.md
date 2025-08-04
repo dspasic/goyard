@@ -10,9 +10,13 @@ Get the basic
 * [x] Complete: [Getting started with generics](https://go.dev/doc/tutorial/generics)
 * [x] Complete: [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
 * [x] Complete: [Writting Web Applications](https://go.dev/doc/articles/wiki/)
-* [] Complete: [Effective Go](https://go.dev/doc/effective_go)
+* [x] Complete: [Effective Go](https://go.dev/doc/effective_go)
 * [] Complete: [How to write Go code](https://go.dev/doc/code)
 * [x] Complete: [Go Slices: usage and internals](https://go.dev/blog/slices-intro)
+
+## Good to know
+
+* [Language Specification](https://go.dev/ref/spec)
 
 ## Set up Database
 
