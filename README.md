@@ -11,6 +11,7 @@ Get the basic
 * [x] Complete: [Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
 * [x] Complete: [Writting Web Applications](https://go.dev/doc/articles/wiki/)
 * [] Complete: [Effective Go](https://go.dev/doc/effective_go)
+* * Checkpoint [Data](https://go.dev/doc/effective_go#maps)
 * [] Complete: [How to write Go code](https://go.dev/doc/code)
 * [x] Complete: [Go Slices: usage and internals](https://go.dev/blog/slices-intro)
 
